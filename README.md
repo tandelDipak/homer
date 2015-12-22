@@ -29,7 +29,7 @@ Powered at the core by [SIPCAPTURE](http://kamailio.org/docs/modules/stable/modu
 **HOMER** is already used by large voice networks, voip service providers and traffic carriers worldwide, has been implemented as a service in 3rd party voice platforms and is suitable for production. Contact the team for your basic and advanced needs or leverage the experience of our great community by joining our [mailing-list](http://groups.google.com/group/homer-discuss). 
 
 <br/>
-<img src="http://i.imgur.com/pvOBKYR.png" >
+<img src="http://i.imgur.com/0qiWlzi.png" >
 
 
 #### The HOMER Application is composed of two main elements:
