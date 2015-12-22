@@ -32,11 +32,6 @@ Powered at the core by [SIPCAPTURE](http://kamailio.org/docs/modules/stable/modu
 <img src="http://i.imgur.com/0qiWlzi.png" >
 
 
-#### The HOMER Application is composed of two main elements:
-
-![HEP](https://img.shields.io/badge/capture-server-red.svg)
-![HEP](https://img.shields.io/badge/capture-agent-blue.svg)
-
 ## Capture Server
 Responsible for Collecting, Indexing and Storing received HEP, IPIP and Raw packets from HEP Agents, the HOMER Capture Server is based on our SIPCapture module for [Kamailio](http://kamailio.org) or [OpenSIPS](http://opensips.org) featuring optimized database schemas with advanced options and complex and extensible capture plans with multiple table support and triggers able to interact with any module on the platform and unlimited scope. Includes a powerful and modern multi-user Web User-Interface and secure REST API 
 
