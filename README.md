@@ -35,7 +35,7 @@ Powered at the core by [SIPCAPTURE](http://kamailio.org/docs/modules/stable/modu
 ## Capture Server
 Responsible for Collecting, Indexing and Storing received HEP, IPIP and Raw packets from HEP Agents, the HOMER Capture Server is based on our SIPCapture module for [Kamailio](http://kamailio.org) or [OpenSIPS](http://opensips.org) featuring optimized database schemas with advanced options and complex and extensible capture plans with multiple table support and triggers able to interact with any module on the platform and unlimited scope. Includes a powerful and modern multi-user Web User-Interface and secure REST API 
 
-<img src="http://i.imgur.com/AS7fM2Nh.png">
+<img src="http://i.imgur.com/p9wV9kh.png">
 
 ## Capture Agents
 Capture Agents are responsible for feeding HOMER SIP signaling, Logs, RTCP Reports and much more using the HEP _(Homer Encapsulation Protocol)_ protocol. Our [WIKI](https://github.com/sipcapture/homer/wiki) provides several useful examples to get started.
