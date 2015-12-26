@@ -2,10 +2,10 @@
 	path = captagent
 	url = https://github.com/sipcapture/captagent.git
 	branch = captagent6
-[submodule "homer-ui"]
-	path = homer-ui
-	url = https://github.com/sipcapture/homer-ui.git
-        branch = master
+#[submodule "homer-ui"]
+#	path = homer-ui
+#	url = https://github.com/sipcapture/homer-ui.git
+#        branch = master
 
 [submodule "homer-api"]
 	path = homer-api
